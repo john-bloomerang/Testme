@@ -15,3 +15,6 @@ fix in release
 this is a hotfix
 
 My Next Release
+last, normal feature change
+
+fix in release
