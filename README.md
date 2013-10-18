@@ -12,3 +12,6 @@ This is teh octocat release
 one more change.
 
 fix in release
+this is a hotfix
+
+My Next Release
